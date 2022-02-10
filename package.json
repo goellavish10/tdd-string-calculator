@@ -1,0 +1,12 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "string calculator kata",
+  "main": "index.js",
+  "repository": "git@github.com:goellavish10/tdd-string-calculator.git",
+  "author": "Lavish Goyal <goellavish10@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
